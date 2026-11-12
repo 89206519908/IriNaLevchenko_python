@@ -219,4 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .vscode/
+Тренировка/
+lesson_03/
+
 
